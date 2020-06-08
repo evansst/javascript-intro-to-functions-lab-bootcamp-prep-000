@@ -24,5 +24,4 @@ function sayHiToGrandma(string) {
     } else {
       return "failed."
     }
-  }
 }
